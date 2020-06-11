@@ -73,7 +73,7 @@ These questions demonstrate that the ability to answer "yes" is often dependent 
 There is nothing inherently wrong with the materials that are available to scientists wanting to learn how to analyze data. The challenge is that too much is asked of these approaches. A autodidact struggles to advance because they do not know enough to know what to study - a grounding provided by workshops. Conversely, the workshop-based approach likely suffers because the participant does not become an autodidact by continuing to practice the material they learned. **These approaches likely fail because they do not incorporate the extensive lessons from the metacognition literature, which emphasize the value repeated practice over mass learning.**
 
 
-***Code Club .*** A common strategy for keeping up with the literature is participating in journal clubs, which involve group discussion of a pre-selected paper. In addition to staying current on the literature, journal clubs help strengthen skills in critical thinking, communication, and integrating the literature [@Lonsdale2016]. Over the past 4 years, my research group has leveraged the similarity between the overwhelming nature of both scientific literature and data analysis to address the challenge of teaching reproducible data analysis practices to bench scientists. Over the past four years we have experimented with what we call a Code Club to improve data analysis skills in a community environment. Code Club sessions generally include a brief tutorial, a set of exercises related to the tutorial for participants to work through in a small group, and an opportunity to debrief and report back each group's solutions. Table 2 includes several examples of successful Code Club topics that we have done within a separate 1-hour long Code Club session.
+***Code Club.*** A common strategy for keeping up with the literature is participating in journal clubs, which involve group discussion of a pre-selected paper. In addition to staying current on the literature, journal clubs help strengthen skills in critical thinking, communication, and integrating the literature [@Lonsdale2016]. Over the past 4 years, my research group has leveraged the similarity between the overwhelming nature of both scientific literature and data analysis to address the challenge of teaching reproducible data analysis practices to bench scientists. Over the past four years we have experimented with what we call a Code Club to improve data analysis skills in a community environment. Code Club sessions generally include a brief tutorial, a set of exercises related to the tutorial for participants to work through in a small group, and an opportunity to debrief and report back each group's solutions. Table 2 includes several examples of successful Code Club topics that we have done within a separate 1-hour long Code Club session.
 
 | **Title**             | **Description**                                    |
 | ----------------- | ---------------------------------------------- |
@@ -90,10 +90,11 @@ As described in the letters of support from Drs. Lauring, Balunas, and Snitkin, 
 With these factors in mind and the isolation many have felt due to the shutdown of research laboratories due to the COVID-19 pandemic, I have experimented with creating virtual Code Club sessions. Initially, the model included live participants on a Zoom call. The synchronous nature of that format made the model unsustainable. More recently, I have created an asynchronous model where a motivating question, tutorial, and set of exercises and their solutions are provided as a blog post with an accompanying video or "vlog" posted to YouTube on the Riffomonas project channel (https://www.youtube.com/c/riffomonasproject). These Code Club Sessions are released once a week and have received a positive response from its growing community. As the sessions gain wider reception, it is hoped that the community will make greater use of the commenting features to ask questions and propose topics for future sessions. **The development of additional Code Club sessions will significantly enhance the opportunity for participants to strengthen their reproducible data analysis skills through repeated and deliberate practice.**
 
 
-***The pedagogical benefits of Code Club over previous methods of instruction.*** As highlighted above, autodidacts and those who participate in workshops struggle because the available resources fail to facilitate learners' ability to engage in the best metacognition practices. The basis of this proposal is that introducing Code Club activities will overcome those limitations. The primary benefit of the Code Club format is that because the sessions incorporate exercises for the learner to practice with, they are engaging in repeated practice, which is an effective means of learning new material and developing automaticity. By developing a large collection of sessions that learners can chose from, they will have many opportunities to cover similar content helping to make their practice deliberate rather than superficial. The design of the sessions requires that the amount of material be kept to at most 2 concepts. This reduces the cognitive load for the learners, which can be significant in workshops. In fact, a key part of the design of each session is stripping out extraneous material to minimize the cognitive load for learners. Furthermore, in addition to the limited number of concepts that can be covered in a single session, it is not possible to completely cover those concepts. Therefore, it is unlikely that the learner will attain complete mastery the first time they see the concept. Cycling through many concepts over multiple sessions without attaining complete mastery is an effective way to help learners develop complete mastery because each time they see the concept, they need to practice their retrieval skills to apply what they already know. Each time they do this they approach mastery and automaticity. The exercises that are provided with each session increase in difficulty. The first exercise asks the learner to do a simple modification of what was done in the tutorial to answer a related question. By the third question, the learners are asked to apply the concepts to a completely new question with the same or different data. The increasing difficulty of the exercises provides a self assessment to the learner. Even if the learner is only able to solve one or two of three exercises on their own, by trying the other exercises they are creating a mental model of how they think the exercise should be solved, which they can adjust once they see the solution. **Each Code Club session is intentionally designed to incorporate the metacognition literature to enhance the development of reproducible data science skills.
+***The pedagogical benefits of Code Club over previous methods of instruction.*** As highlighted above, autodidacts and those who participate in workshops struggle because the available resources fail to facilitate learners' ability to engage in the best metacognition practices. The basis of this proposal is that introducing Code Club activities will overcome those limitations. The primary benefit of the Code Club format is that because the sessions incorporate exercises for the learner to practice with, they are engaging in repeated practice, which is an effective means of learning new material and developing automaticity. By developing a large collection of sessions that learners can chose from, they will have many opportunities to cover similar content helping to make their practice deliberate rather than superficial. The design of the sessions requires that the amount of material be kept to at most 2 concepts. This reduces the cognitive load for the learners, which can be significant in workshops. In fact, a key part of the design of each session is stripping out extraneous material to minimize the cognitive load for learners. Furthermore, in addition to the limited number of concepts that can be covered in a single session, it is not possible to completely cover those concepts. Therefore, it is unlikely that the learner will attain complete mastery the first time they see the concept. Cycling through many concepts over multiple sessions without attaining complete mastery is an effective way to help learners develop complete mastery because each time they see the concept, they need to practice their retrieval skills to apply what they already know. Each time they do this they approach mastery and automaticity. The exercises that are provided with each session increase in difficulty. The first exercise asks the learner to do a simple modification of what was done in the tutorial to answer a related question. By the third question, the learners are asked to apply the concepts to a completely new question with the same or different data. The increasing difficulty of the exercises provides a self assessment to the learner. Even if the learner is only able to solve one or two of three exercises on their own, by trying the other exercises they are creating a mental model of how they think the exercise should be solved, which they can adjust once they see the solution. **Each Code Club session is intentionally designed to incorporate the metacognition literature to enhance the development of reproducible data science skills.**
 
 
 ***Teaching portfolio.*** Over the past 12 years I have taught between 4 and 8 courses per year related to reproducible data analysis skills. Although most of these have been 3 day workshops, I have also taught workshops lasting 2 hours to traditional courses that were a full semester. My teaching has largely been devoted to cover general reproducible research practices including R programming and the use of the mothur software package for analyzing microbial ecology data. More than 1,200 scientists have participated in these workshops. In addition, I am a trained Carpentries Instructor and co-teach one or two Software or Data Carpentry workshops per year. At the University of Michigan, I oversee our local chapter of the Carpentries organization where we discuss coordinating the 10 workshops we teach each year, pedagogical topics, and the development of additional workshop. Prior to 2020, these workshops were taught in person. Prior to the COVID-19 pandemic I had already transitioned to teaching my workshops via Zoom and was well prepared to start teaching the material virtually. In April, I taught a three day, R-based workshop to over 100 participants with the help of four teaching assistants. Between this large workshop and two other virtual workshops I have taught in 2020, I have significantly improved my ability to teach remotely. These experiences demonstrate that I am connected to a large network of scientists who have participated in workshop style learning environments. I will be able to draw upon this network to recruit scientists to continue their learning with the help of virtual Code Club sessions. Furthermore, the depth of my experience shows that I have a unique familiarity with the strengths and weaknesses of different teaching approaches. **Both my network and deep experience will be significant assets for the proposed Research Eduction Program.**
+
 
 ***Teaching philosophy.*** It is critical that scientists develop their data analysis skills. Anyone who is honest will acknowledge that they struggle to reproducibly analyze their current data and feel overwhelmed by the growing amount of data that they can generate. The problem will only grow more acute as technology advances. I believe that anyone can learn to analyze their own data. Data analysis is the strongest when the person who designed the experiments and generated the data analyzes with the advice of experts in statistics. The best way to motivate learners to learn the concepts I teach is by answering real world questions rather than with questions derived from simulated or overly abstract datasets (e.g. the mtcars or diamonds datasets, which are popular in R teaching materials). It would be dishonest to teach one set of methods and use a different set for my own professional work. Therefore, to answer these questions, I teach the approaches that I use for my own research. I treat people in my classes as though they were trainees working in my lab that needed skills to create the reproducible papers that we strive to publish. Just as Philip Bourne demonstrated in the anecdote above, the best data scientists have room to grow. With this in mind, I teach with encouraging outlook that asks learners to do better with each new analysis they perform. This incremental approach may feel slow or incomplete. But this approach is far more effective than expecting scientists to take on a large set of skills at once.
 
@@ -111,124 +112,109 @@ The *status quo* as it pertains to bench scientists developing data analysis ski
 
 
 
+## Approach: Produce Code Club sessions that highlight concepts important for performing rigorous and reproducible data science
 
-## Proposed Research Education Program
+### Introduction
 
-### Produce Code Club sessions that highlight concepts important for performing rigorous and reproducible data science
-
-
-
-
-
-## Evaluation Plan
-**As described above, participants will register with the module through a website
-where they will provide demographic data. The website will track the amount of
-time spent on each item and their responses. The autotutorials will request the
-participants' account name so that it is possible to look for their GitHub
-account to track their performance. It is important to note that aside from the
-account name, the evaluation will be completely anonymous. In general, it
-is not possible to ascertain a person's identity from their account name. Each
-autotutorial will have a variety of quantitative and qualitative assessments
-that will allow us to track a participant's progress through the module. We will
-create a badge-based commendation system where participants gain varying points.
-In addition, participants will receive a certificate indicating completion of
-the program. As we track the participants' activities within each module we will
-also be able to evaluate the usefulness of each activity and modify the content
-to overcome misconceptions or confusion in the material. Finally, we will assess
-the overall success of the module by sending an automated email to each
-participant at 1, 2, and 3-year anniversaries of the date they completed the
-module. These emails will invite the participant to complete a survey that
-describes their current reproducible research  practices. We will monitor how
-they have changed relative to when they started the module. The evaluation plan
-that we have developed blends quantitative and qualitative measures of the
-participants' learning and behavior as well as the quality of the instructional
-materials.**
-
-
-## Dissemination Plan
-**We hope that this project will be a seed to engage other developers and the
-microbiome community to improve the reproducibility of microbiome data analysis.
-All instructional materials will be made freely available through a
-website at www.riffomonas.org. To disseminate these materials we will pursue
-several avenues including:  
-
-* Social media (e.g. Twitter and blogs) to promote a reproducible microbiome
-research initiative. This will create enthusiasm in the microbiome community and
-foster their interest in developing and improving the modules.
-* At least two manuscripts that will address the issue of reproducibility in
-microbiome research and the development of our teaching modules.
-* Microbiome-based e-mailing lists that Schloss (PI) is part of including the
-extensive mothur mailing list, which currently has more than 3,000 registered
-users and the Human Microbiome Project Data Analysis and Coordination Center
-website and mailing list (http://www.hmpdacc.org).
-* Networking with other microbiome researchers (see letters of support) to
-facilitate workshops at 3 universities each of the two years of the project (see
-the letters of support). This will serve to help us develop the modules as well
-as  disseminate the modules.
-* Utilize our connections within the American Society for Microbiology
-to advertise the module through *Microbe* magazine and in workshop
-offerings at the society's General Meetings in 2016 and 2017 (see letter of
-support from ASM).
-
-In addition to www.riffomonas.org, which will host information about the
-instructional materials, we intend to continue to develop instructional
-materials and best practices beyond the funded period of this project to foster
-greater reproducibility in microbiome research (see Future Directions). Once
-funding for this project has been exhausted, the project should be able to
-continue on as a democratic, open source, community-supported endeavor. To
-support this all materials related to the project will be maintained as a public
-GitHub project repository (www.github.com/riffomonas). In fact, the
-development of this proposal is available at
-www.github.com/riffomonas/2020_RR_R25.**
+Most bench scientists struggle to apply modern tools that enable them to insure the reproducibility of their data analyses. The ***overall objective*** of this Research Education Program is to develop a collection of virtual Code Club sessions that researchers can use on their own or with colleagues to strengthen their ability to conduct reproducible data analyses. The materials will be targeted to biomedical scientists at any career stage. The ***central hypothesis*** is that completing Code Club sessions will improve the retention of concepts covered in prior workshops and allow learners to more quickly develop their skills beyond those covered in a workshop. The ***rationale*** for this hypothesis is that although the workshop format is popular, its effectiveness is limited because a workshop asks learners to remember a large number of concepts and only provides superficial opportunities to practice the material. A workshop effectively asks the learner to engage in massed learning; a practice that is known to be ineffective. In contrast, Code Club sessions provide brief, regular opportunities to engage in repeated deliberate practice. By limiting the each session to one or two concepts, we lessen the cognitive load for learners and encourage them to practice their retrieval and application skills. The framework of the Code Club is based on 20 years of experience helping bench scientists learn to do their own data analysis and observing the experiences of colleagues who have run their own Code Clubs. The ***outcome*** of this Research Education Program will be a validated collection of materials for more than 100 Code Club sessions that cover multiple areas of reproducible data analysis.
 
 
 
-## Principal Investigator
-**As indicated by his biosketch and the numerous letters of support, Schloss is a
-respected member of the microbiome research community and is an excellent
-teacher that is anxious to utilize innovative teaching methods to communicate
-complex materials. Over the past 6 years, Schloss has been the PI on 9 research
-grants funded by NIH and other agencies including 2 R01 projects related to the
-microbiome. He has served as a co-Investigator on 7 additional projects during
-that time. From this funding he has published 32 peer-reviewed publications and
-he was the senior author on 16 of these studies; all of these studies have
-involved research questions related to the microbiome. At the University of
-Michigan, Schloss has developed two courses: *Symbiosis* and *Microbial
-informatics*. The latter is a course that is designed to teach microbiologists
-in MS and PhD programs and postdocs how to use R. This semester, in preparation
-for this proposal, Schloss successfully experimented with using knitr-based
-documents and GitHub repositories to submit assignments. In addition, all of his
-course materials have been made available through the course's GitHub site
-including the lecture slides that were prepared using the R slidify package that
-is based on the knitr package (microbialinformatics.github.io). Although this
-course touches on the content of the proposed teaching materials, it focused on
-developing R programming skills rather than data analysis practices. This course
-and Schloss's  willingness to experiment with the content is indicative of his
-innovative approach to teaching. Finally, over the past 7 years, Schloss has
-offered 4-5 workshops describing how microbiologists can use mothur and R to
-analyze data from microbiome research projects. This experience has given him a
-unique perspective into the needs and competencies of the microbiome research
-community. Together, these data and experiences indicate Schloss is "actively
-engaged in research in an area related to the mission of NIH, and can organize,
-administer, monitor, and evaluate the research education program."**
+### Design
+
+***Format.*** Each Code Club session will have the same structure and will be motivated by a question. For example, "what is the half-saturation constant for this protein?". After a brief introduction stating the question, the host will provide a 20-25 minute tutorial on that concept in which they will answer the question. Depending on the relative balance of concepts that have been covered (see next paragraph), we will select one or two concepts to demonstrate for this question. For example, the host could focus on linear regression for this session. The tutorial would cover the assumptions that must be true to fit a linear regression, how to evaluate the quality of the fit, and how to perform the fit in R. To answer the question, the host would discuss the strengths and weaknesses of using a double-reciprocal version of the Michaelis–Menten equation (i.e. the Lineweaver-Burk plot) to determine the relevant constants. Next, viewers will be encouraged to pause the video to complete three exercises. The first question will ask the viewer to adapt their code to a related question (e.g. determine the half-saturation constant for another enzyme). The second question will ask the viewer to adapt their code to answer a related, but more distant question (e.g. fit data using the Hanes-Woolf or Eadie–Hofstee transformations). The third question will have the viewer apply the concept in a different context (e.g. construct a linear calibration curve for a Bradford assay). To conclude the Code Club session, the host will spend 15 minutes to provide their solutions to the exercises and conclude the session. The goal for each Code Club is not to achieve mastery, but to supplement prior knowledge, provide an opportunity to practice concepts in diverse settings, and to give an opportunity for self assessment. To emphasize, this point, a subsequent session might use linear regression to solve a different problem or might build off of this session by discussing logistic regression. Another session might cover the same question, but demonstrate how to fit the Michaelis-Menten equation using non-linear regression.
+
+The Code Club materials will principally consist of a blog post hosted as webpages on the Riffomonas project website (https://www.riffomonas.org/code_club) and as a video hosted on the Riffomonas project YouTube channel (https://www.youtube.org/riffomonasproject). All materials for Code Club sessions will be released under the Creative Commons Share Alike By Attribution (CC-BY v4.0) license. The materials will be developed and disseminated keeping in mind the best practices to comply with revised Section 508 Standards. We will regularly review and practices described in the standards described in the Guide to Accessible Web Design & Development (https://www.section508.gov/content/guide-accessible-web-design-development) and the W3C, WCAG, and ARIA authoring best practices. The videos will be captioned using the Google speech-to-text algorithm and if the quality is poor, we will use a transcription service and upload our own captions. We are committed to facilitating the learning of all scientists.
 
 
-## Institutional Environment and Commitment
-Schloss has secured institutional support for this project on multiple levels.
-First, as indicated by the letter of support from Dr. Bethany Moore, Interim Chair
-of the Department of Microbiology & Immunology at the University of Michigan
-School of Medicine, Schloss has the support of the university to gain access to
-adequate staff, facilities, and educational resources to make the planned
-research education program successful. Second, Schloss has interacted with the
-Center for Research on Learning and Teaching (CRLT) at the University of
-Michigan to plan the assessment program for this project (see letter of support
-from CRLT). The CRLT provides a mixture of complimentary and fee-based
-services, but does not participate in projects as personnel on grant proposals.
-The support provided by CRLT will insure that Schloss it utilizing the latest in
-pedagogical theory and assessment to develop the proposed teaching modules.
-Third, as indicated by the letters of support from other researchers at the
-University of Michigan and across the United States, Schloss has the support and
-commitment of other investigators to implement this project. They all see the value
-of developing instructional materials such as those described in this proposal. The
-multiple levels of commitment and broad support that this proposal enjoys speaks to
-its importance and the unique qualifications of Schloss to lead the project.
+***Topic areas.*** The concepts that will be covered in each Code Club session will be selected from topics that are relevant to insuring reproducible and robust data analyses. The topic areas will include (the numbers of sessions indicated are estimates):
+
+* **Scripting analyses (n=60 sessions).** Scripting analyses is critical are critical topic area because it shows the code that was used to transform raw data into the final results. This generally involves programming skills and has the most concepts that need to be covered. Sessions will teach participants best practices for using R and bash scripts to clean, process, and validate raw data, visualize data, and statistically analyze and model data. In addition, best practices for building and working with spreadsheets to enable scripting of analyses will be covered.
+* **Automation (n=10 sessions).** Related to scripting analyses, automation is an important consideration since details how scripts are integrated with each other to complete a full analysis and how to track the data and code dependencies across a project. Concepts will be demonstrated using bash scripts, GNU Make, and snakemake.
+* **Project organization and documentation (n=10 sessions).** A project that is automated using elegant code is worthless if the project is poorly documented or organized. Concepts related to this topic area will detail the value of project structure, self-documenting file and directory names, and providing a guide to the reader to navigate the project.
+* **Version control (n=10 sessions).** The ability to see how a data analysis has evolved over its life is possible if good version control practices are used. Concepts related to both creating that historical thread for a project and looking back over the historical thread will be covered. git and GitHub will be used to demonstrate the concepts for this topic area.
+* **Literate programming (n=10 sessions).** A literate programming document embeds code within a written narrative and insures that any results in a document are directly linked to the code responsible for producing that result. Concepts and applications using R Markdown will be used to cover this topic area.
+* **FAIR (Findable, Accessible, Interoperable, and Reusable) principles (n=4 sessions).** The ability to reproduce and build off of an existing analysis is central to the philosophy of the Riffomonas project. To achieve that goal, we will highlight the FAIR principles throughout the series of Code Club sessions. We will also emphasize the value of open science, data and code accessibility, and the creation of containers and machine images for facilitating these principles (https://datascience.nih.gov/sites/default/files/NIH_Strategic_Plan_for_Data_Science_Final_508.pdf)
+
+Although we will limit the number of learning objectives to one or two concepts per session, they will be demonstrated in the context of other concepts to emphasize how the concept of the session can be integrated with other concepts. For example, a session discussing licensing might involve using version control to put a copy of a license in a git repository hosted on GitHub. Finally, there are many tools available to demonstrate the concepts in these topic areas. We have selected a set of tools that are widely used. As we develop the Code Club sessions we will reassess that the tool we are demonstrating is still preferred. In some cases we will also present the strengths and weaknesses of different tools.
+
+
+***Motivating questions.*** Using real questions and situations faced by scientists is an important component of the design of the Code Club sessions. Some questions will be related to the preparation of reports, presentations, and manuscripts while others will be driven by a biological question. For these latter questions, we will initially rely on our own interests and the suggestions of colleagues to insure that we have a broad range of topics that cover the biomedical sciences (see letters of support). At a minimum, we foresee using questions inspired from genomics, microbiome science, physiology, bacteriology, viral evolution, biochemistry, immunology, epidemiology, psychology, and neurobiology. We will always use data that are freely available and if the question is from a domain outside of our area of expertise (i.e. microbiology), we will consult with an expert to review our materials.
+
+
+### Dissemination Plan
+
+To disseminate the materials generated as part of the proposed research, we will pursue several avenues beyond linking the materials to the NIGMS clearinghouse web site:  
+
+**Recruitment through workshops.** The primary direct approach that we will use to recruit people to participate in Code Clubs is through workshops that Schloss helps facilitate. Each year, Schloss teaches 6 3-day workshops that are attended by researchers from around the world. In addition, at the University of Michigan, he teaches his Microbial Informatics class that is taught as a 3 day workshop and he co-teaches 2 2-day Carpentries workshops. Schloss is the director of the University of Michigan's Carpentries Partner Organization. Including the workshops that Schloss co-teaches, the local Carpentries organization teaches 10 workshops per year. Through these diverse teaching venues, Schloss has the ability to annually draw from a population of more than 120 scientists from outside the University of Michigan and more than 200 scientists from the University of Michigan. We will make every effort to recruit scientists that participate in these activities. Our surveys of participants indicates that attendees are primarily graduate students (~30%), postdocs (~30%), and research staff (~30%), but faculty (~10%) and occasionally undergraduates (~1%) participate. We routinely serve an equal number of women and men in these workshops.
+
+**Advertising of materials.** We will use social media (e.g. YouTube and Twitter) to promote the Code Club materials. Schloss currently has over 8,000 followers on Twitter, where he has a reputation for discussing data analysis issues. We will advertise new Code Club sessions through his Twitter account. We will also use search engine optimization (SEO) strategies targeting YouTube's recommendation algorithm to grow a new viewership base. Both avenues will create enthusiasm in the biomedical research community and beyond to foster their interest in the sessions.
+
+**Publications and presentations.** We anticipate publishing at least two manuscripts for this project. The first will announce the availability of the resources, similar to what we previously did for the Riffomonas project's reproducible research tutorial series [REF]. The second  will report the results of our study into the benefits of engaging in Code Club materials over workshop-based learning alone. Finally, it is likely that there will also be opportunities to give seminar, conference, and webinar presentations describing the project to interested groups.
+
+**Availability of materials.** All instructional materials will be made freely available through the Riffomonas project website at (https://www.riffomonas.org/code_club) and all videos will be hosted on YouTube under the Riffomonas project channel (https://www.youtube.com/c/riffomonasproject). All materials related to the project will be maintained as a public GitHub project repository (https://www.github.com/riffomonas/code_club). In fact, the development of this proposal is available at www.github.com/riffomonas/2020_RR_R25. All content will be released under a Creative Commons by Attribution (CC-BY-4.0) license.
+
+**Overall, we have a structure in place to disseminate the Code Club materials developed in the proposed plan to a large number of researchers and a plan to expand their reach beyond our current network.**
+
+
+
+### Evaluation Plan
+
+The central hypothesis of the proposed Research Education plan ***is that completing Code Club sessions will improve the retention of concepts covered in prior workshops and allow learners to more quickly develop their skills expand beyond those covered in a workshop.*** To test this hypothesis, we will establish three groups of participants in our study. The first are those that participated in a programming workshop and watched at least one Code Club session. The second are those who only participated in a workshop. The third are those that only participate in Code Club sessions. We will follow up with participants in the week after participating in the workshop to establish a baseline and 2 and 6 months after the workshop. For those in the third group who did not participate in a workshop, we assess their baseline as soon as they are recruited. We will partner with the Center for Research on Learning and Teaching at the University of Michigan to create survey and assessment instruments (see attached letter from Malinda Matney, PhD). We anticipate finalizing the survey and assessment tools in the first year while we are refining the style and building the collection of Code Club videos. The survey and assessment tools will then be deployed in the second and third years of the project.
+
+***Surveying participation.*** Participants will take a survey to record demographic information. It will be important to determine whether factors like gender, race, or career stage impact whether one is more likely to participate in Code Club sessions. We will also survey the participants to measure covariates that we expect to be important to account for retention and growth including the type of workshop they participated in, how many Code Club sessions they participated in, the number of hours they engaged in practice and application of the content, and their career stage.
+
+***Evaluating efficacy.*** Participants will complete an evaluation tool that asks the participants to answer a series of questions and perform a series of tasks. These tasks will be brief to minimize the time and effort required by the participant. This evaluation will be a mixture of problem types including:
+
+* Modify a series of steps to achieve a solution to a new question and evaluate using multiple choice questions with plausible distractor options that have diagnostic power
+* Debugging series of steps to achieve a solution with an actual pipeline, using blanked out commands and/or arguments, or rearranging steps to achieve a solution (i.e. Parson's problems)
+* Given an input and output, ask participant to generate the code to generate the new output
+
+***Evaluating the materials.*** Beyond assessing the participants, we need to assess the learning materials. We will assess the materials with several tools. First, every Code Club session will include an anonymous survey asking participants to evaluate the materials for the clarity of their presentation, relevance, and . The data will be aggregated using Google Forms. Second, we will use the built in analytic tools for YouTube to track the number of views, time spent on each video, viewer demographics, how viewers found the video, likes vs dislikes, and comments. Third, we will use Google's analytics tools to track how participants find each Code Club session's blog post, how long they spend on the site, and where they go after visiting the site. We will track all of these metrics and adjust accordingly throughout the funding period. However, we anticipate most that we will make the most significant changes based on these data in the first year.
+
+**This evaluation plan demonstrates that we have a comprehensive plan to evaluate our materials, the effectiveness of the materials, and the types of people engaging in the material.**
+
+
+
+### Principal Investigator
+
+As indicated by his Biosketch and the numerous letters of support, Schloss is a respected member of the microbiome research community and is an excellent teacher who is anxious to utilize innovative teaching methods to communicate complex materials. Over the past 12 years, Schloss has been the PI on 9 research grants funded by NIH and other agencies including 4 R01 and U01 projects related to the microbiome and an R25 related to developing instructional modules for engaging in reproducible research practices. He has served as a co-Investigator on 16 additional projects during that time. Over the course of his career he has published 103 manuscripts, which covered topics including microbial ecology and the microbiome, science policy and communication, and reproducible practices. The R25 that Schloss was awarded under RFA-GM-15-006, "Development of reproducible informatics skills among microbiome researchers (R25GM116149)" successfully yielded two peer-reviewed publications [REFS]. Beyond the funding period of that project, Schloss has continued to develop and post educational content to the Riffomonas project website at https://www.riffomonas.org. At the University of Michigan, Schloss has developed two courses: *Symbiosis* and *Microbial informatics*. The latter is a course that is designed to teach microbiologists in MS and PhD programs and postdocs how to use R. Initially designed as a semester-long, 3 credit course, Schloss revamped the course to a 3 full-day workshop to better serve more diverse researchers who could not commit to a semester-long course. Over the past 5 years that he has offered the course in theis format, the class has grown and diversified its content from focusing on microbiome-related data sets to data sets that appeal to a broader audience. Although this course touches on the content of the proposed teaching materials, it has focused on developing R programming skills rather than data analysis practices. This course and Schloss's  willingness to experiment with the content is indicative of his innovative approach to teaching. Finally, over the past 12 years, Schloss has offered numerous other workshops each year describing how microbiologists can use mothur and R to analyze data from their research projects. This experience has given him a unique perspective into the needs and competencies of the biomedical research community. **Together, these data and experiences indicate Schloss is "actively engaged in research in an area related to the mission of NIH, and can organize, administer, monitor, and evaluate the research education program."**
+
+
+
+### Institutional Environment and Commitment
+
+We has secured institutional support for this project on multiple levels. First, as indicated by the letter of support from Dr. Bethany Moore, Interim Chair of the Department of Microbiology & Immunology at the University of Michigan School of Medicine, Schloss has the support of the university to gain access to adequate staff, facilities, and educational resources to make the planned research education program successful. Second, Schloss has interacted with the Center for Research on Learning and Teaching (CRLT) at the University of Michigan to plan the assessment program for this project (see letter of support from CRLT). The CRLT provides a mixture of complimentary and fee-based services, but does not participate in projects as personnel on grant proposals. The support provided by CRLT will insure that Schloss it utilizing the latest in pedagogical theory and assessment to develop the proposed teaching modules. Third, as indicated by the letters of support from other researchers at the University of Michigan and across the United States, Schloss has the support and commitment of other investigators to implement this project. They all see the value of developing instructional materials such as those described in this proposal. **The multiple levels of commitment and broad support that this proposal enjoys speaks to its importance and the unique qualifications of Schloss to lead the project.**
+
+
+
+### Expected Outcomes
+
+By the end of the proposed project, we expect to find that scientists who engage in a workshop retain and grow their skills better if they also participate in a weekly Code Club session. This expectation derives from the well-validated benefits of repeated practice for improving automaticity. To achieve this outcome, we will have created a library of more than 100 recorded Code Club sessions that scientists and the general public can use to improve their reproducible data analysis skills. By consistently releasing a session each week and following our broad dissemination plan, we will build a large subscriber base of more than 1,000 individuals. Ideally, these individuals will engage with the materials, participate by leaving comments where they ask questions and make suggestions for future concepts they would like to see us cover. **Ultimately, we expect to significantly enhance the reproducible data science skills of a diverse range of scientists at every career level in ever sub-discipline of biomedical research.**
+
+
+
+### Potential Problems & Alternative Strategies
+
+We are confident that the proposed Research Education Program Plan will be successful; however, there several potential problems that we may face. First, we may find that video is not an attractive medium for scientists to engage with the Code Club sessions and that they prefer the accompanying blog posts. We believe this is potential problem is unlikely because of the popularity of live coding during workshops. However, if this is the case, we would pivot to text-based content and cease producing the video. Second, we may find that the number of people engaging the Code Club materials grows at a slower than expected pace. We are optimistic that this will be unlikely because there is a large population of scientists interested in learning data science skills. Furthermore, we will be consistently producing content, which has been shown to be key to building viewership. If this does become a problem, we will conduct focus groups and interviews to assess what is causing slow adoption and we will ask popular scientists with social media presence to help evaluate the materials and advertise content. Finally, it is possible that we will be unable to keep up with the pace of producing one video per week. Considering each Code Club session takes about 8 hours for one person to develop, record, edit, and release, this is unlikely since Schloss is devoting 20% of his effort (i.e. 8 hours per week) and will be working with a postdoctoral research fellow (25% effort) to develop the material. This should be a sufficient amount of effort to cover the proposed pacing, especially since we anticipate finding efficiencies as we go forward. One solution might be to produce multiple weeks' worth of Code Club sessions simultaneously and deploy them once per week. Although less desirable, we could also shift to releasing the sessions every two weeks. **We have developed a robust frameworks for developing, disseminating, and evaluating the Code Club sessions, which will yield a successful outcome.**
+
+
+
+### Timeline and Benchmarks for Success
+
+The proposed Research Education Program Plan will consist of developing 52 Code Club sessions per year that are released weekly to the Riffomonas Project website and YouTube channel (https://www.youtube.com/c/riffomonasproject) for the first two years of the program. If we continue to develop videos beyond this time, it will be supported by independent sources of funding. In the first year we will also develop and refine our survey and evaluation tools. In the second and third years we will recruit participants to the study from our workshop attendees and social media network. In the third year we will continue to recruit participants and report the results of our surveys and evaluations.
+
+| **Task**                       | Q2 | Q3 | Q4 | Q1 | Q2 | Q3 | Q4 | Q1 | Q2 | Q3 | Q4 | Q1 |
+|--------------------------------|----|----|----|----|----|----|----|----|----|----|----|----|
+| Deploy sessions                | x  | x  | x  | x  | x  | x  | x  | x  |    |    |    |    |
+| Develop assessment tools       |    |    | x  | x  |    |    |    |    |    |    |    |    |
+| Maintenance and refinement     |    | x  | x  | x  | x  | x  | x  | x  | x  | x  | x  | x  |
+| Recruit participants           |    |    |    |    | x  | x  | x  | x  | x  | x  | x  | x  |
+| Evaluate participants          |    |    |    |    | x  | x  | x  | x  | x  | x  | x  | x  |
+| Summarize and report results   |    |    |    |    |    |    |    |    |    |    | x  | x  |
+
+
+
+### Future directions
+
+Similar to how Journal Clubs are used to improve research skills and develop new research directions, Code Clubs have the potential to improve reproducible data analysis skills and inspire scientists to push their sub-disciplines further. If the proposed Research Education Program Plan is successful, then we will be likely to have inspired "copy cats" to produce a similar type of content within the data science arena. Hopefully, we can build enthusiasm around the Code Club Code Club and build a community of people helping each other to learn to engage in more reproducible practices. Ideally, the need for us to produce content would lessen and we would receive Code Club session proposals from the community who could produce the sessions under the Riffomonas Project. In the future, we expect that we will be able to adapt the Code Club concept to other components of research including writing and bench skills to complement programs that align with the goals of other educational programs relevant to NIGMS's training portfolio.
