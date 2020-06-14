@@ -1,6 +1,6 @@
 # Protections for Human Subjects
 
-This research is exempt under Category 2: “(2) Research involving the use of educational tests (cognitive, diagnostic, aptitude, achievement), survey procedures, interview procedures or observation of public behavior”.
+This research is exempt under Category 2: “(2) Research involving the use of educational tests (cognitive, diagnostic, aptitude, achievement), survey procedures, interview procedures or observation of public behavior”. We will submit a protocol to the University of Michigan IRB describing our evaluation plan to confirm this exemption.
 
 \
 \
